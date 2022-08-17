@@ -8,7 +8,7 @@ int main() {
 
   for (int i = 0; i <= 4; i++) {
     cout << i + 1 << endl;
-    if (i == 4) cout << "6, 7, 8 dollas in my bank account\n";
+    if (i == 4) cout << "6, 7, 8 dollas in my bank account\n" << "you won't catch me fuckn round\n";
 
   }
   
