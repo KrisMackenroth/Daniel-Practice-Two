@@ -8,4 +8,5 @@ int main() {
 
   cout << "krissy sucks peepee" << endl;
   
+  return 0;
 }
